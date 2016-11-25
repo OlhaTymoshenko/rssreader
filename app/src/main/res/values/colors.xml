@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#388E3C</color>
+    <color name="colorAccent">#4CAF50</color>
+    <color name="colorBackground">#EEEEEE</color>
+    <color name="colorCardBackground">#cf757575</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="refresh_color_1">#4CAF50</color>
+    <color name="refresh_color_2">#ef6c00</color>
+</resources>
